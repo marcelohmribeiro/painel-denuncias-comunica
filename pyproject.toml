@@ -9,6 +9,7 @@ dependencies = [
     "pandas>=2.3.3",
     "plotly-express>=0.4.1",
     "streamlit>=1.50.0",
+    "watchdog>=6.0.0",
 ]
 
 [tool.uv]
